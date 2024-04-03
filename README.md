@@ -1,4 +1,4 @@
-# Adjust Birghtness
+# Adjust Brightness
 
 Pasos para usar el script:
 
